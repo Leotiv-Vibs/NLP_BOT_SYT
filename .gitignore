@@ -1,0 +1,5 @@
+.DS_store
+crm_venv
+artists.db
+app.py
+.idea
